@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#4B8A08</color>
+    <color name="actionbar_text">#FBF8EF</color>
+    <color name="temp_color">#eab000</color>
+    <color name="length_color">#8cc63f</color>
+    <color name="weight_color">#aa66cc</color>
+    <color name="speed_color">#e74c3c</color>
+    <color name="volume_color">#e67e22</color>
+    <color name="area_color">#1abc9c</color>
+    <color name="fuel_color">#c5646a</color>
+    <color name="time_color">#706fec</color>
+    <color name="pressure_color">#869033</color>
+    <color name="text_color">#000000</color>
+    <color name="edittext_color">#929292</color>
+    <color name="textview_color">#ededed</color>
+    <color name="templight_color">#ffdc4e</color>
+    <color name="lengthlight_color">#bbf66d</color>
+    <color name="weightlight_color">#d8a0f4</color>
+    <color name="speedlight_color">#ff5f4f</color>
+    <color name="volumelight_color">#fd9b43</color>
+    <color name="arealight_color">#57f1d3</color>
+    <color name="fuellight_color">#f38b92</color>
+    <color name="timelight_color">#9695fc</color>
+    <color name="pressurelight_color">#a7b24e</color>
+
+
+
+</resources>

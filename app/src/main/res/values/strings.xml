@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Select Categories</string>
+    <string name="action_settings">Settings</string>
+    <string name="Converter">Unit Converter</string>
+    <string name="title_activity_splash_screen">Unit Converter</string>
+    <string name="title_activity_temperature">Unit Conversion</string>
+    <string name="main_Title">Convert Now</string>
+    <string name="btn_Temperature">Temperature</string>
+    <string name="btn_Length">Length</string>
+    <string name="btn_Weight">Weight/Mass</string>
+    <string name="btn_Speed">Speed/Velocity</string>
+    <string name="btn_Volume">Volume</string>
+    <string name="btn_Area">Area</string>
+    <string name="btn_FuelConsumption">Fuel Consumption</string>
+    <string name="btn_Time">Time</string>
+    <string name="btn_Pressure">Pressure</string>
+    <string name="btn_Force">Force</string>
+    <string name="btnBack">Back</string>
+    <string name="title_activity_google_play_services">GooglePlayServicesActivity</string>
+
+    <string name="title_activity_admob">AdmobActivity</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-4347257477344005/6003834572</string>
+    <string name="Banner_ad_unit_id">ca-app-pub-4347257477344005/8957300976</string>
+    <string name="title_activity_fregment">fregment</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
